@@ -1,0 +1,10 @@
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.csprojAssemblyReference.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.Form1.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.Properties.Resources.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.csproj.GenerateResource.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\bin\Debug\Star.exe.config
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\bin\Debug\Star.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\bin\Debug\Star.pdb
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Star\Star\obj\Debug\Star.pdb

@@ -1,0 +1,10 @@
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\bin\Debug\FactorialS.exe.config
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\bin\Debug\FactorialS.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\bin\Debug\FactorialS.pdb
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.csprojAssemblyReference.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.Form1.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.Properties.Resources.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.csproj.GenerateResource.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.csproj.CoreCompileInputs.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\FactorialS\FactorialS\obj\Debug\FactorialS.pdb

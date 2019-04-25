@@ -1,0 +1,10 @@
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\bin\Debug\Ellipse++.exe.config
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\bin\Debug\Ellipse++.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\bin\Debug\Ellipse++.pdb
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse++.csprojAssemblyReference.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse__.Form1.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse__.Properties.Resources.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse++.csproj.GenerateResource.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse++.csproj.CoreCompileInputs.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse++.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Ellipse++\Ellipse++\obj\Debug\Ellipse++.pdb

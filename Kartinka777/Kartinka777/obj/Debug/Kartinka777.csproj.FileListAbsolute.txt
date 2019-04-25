@@ -1,0 +1,10 @@
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\bin\Debug\Kartinka777.exe.config
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\bin\Debug\Kartinka777.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\bin\Debug\Kartinka777.pdb
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.csprojAssemblyReference.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.Form1.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.Properties.Resources.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.csproj.GenerateResource.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.csproj.CoreCompileInputs.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\Kartinka777\Kartinka777\obj\Debug\Kartinka777.pdb

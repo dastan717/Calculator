@@ -1,0 +1,10 @@
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\bin\Debug\KARTINKA.exe.config
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\bin\Debug\KARTINKA.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\bin\Debug\KARTINKA.pdb
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.csprojAssemblyReference.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.Form1.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.Properties.Resources.resources
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.csproj.GenerateResource.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.csproj.CoreCompileInputs.cache
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.exe
+C:\Users\EVRIKA.Lenovo-PC.003\Desktop\CALCULATOR !\KARTINKA\KARTINKA\obj\Debug\KARTINKA.pdb
